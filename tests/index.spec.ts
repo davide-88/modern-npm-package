@@ -15,7 +15,7 @@ describe('NPM Package', () => {
 });
 
 describe('Hello World Function', () => {
-  it('should be a function', () => {
+  it('should be a function ', () => {
     assert.isFunction(helloWorld);
   });
 
